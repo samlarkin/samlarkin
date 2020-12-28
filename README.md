@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     - If you have any suggestions for learning materials, I'd love to hear them
 
 ## How to reach me:
-* `@_slarkin` on Instagram
-* `@samlarkin` on Github
+* [`@_slarkin` on Instagram](https://instagram.com/_slarkin)
+* [`samlarkin` on Github](https://github.com/samlarkin)
 * contact me by email via my personal website: [samlarkin.xyz/contact](https://samlarkin.xyz/contact)
     - under development
